@@ -1,0 +1,11 @@
+{
+    "qa": {
+        "base_url": "https://gorest-uat.co.in"
+    },
+    "uat": {
+        "base_url": "https://gorest.co.in"
+    },
+    "environment": {
+        "env": "uat"
+    }
+}
